@@ -1,0 +1,29 @@
+html {
+    height: 100;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+body {
+    background-color: gray;
+    background-image: url(IMG_0695.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-family:roboto;
+}
+
+h1 {
+    color: white;
+}
